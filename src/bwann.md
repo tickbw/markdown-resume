@@ -28,10 +28,10 @@ Ben Wann\
 #### [Duke Manufacturing](https://dukemfg.com)  
 ####  Director, Software Development  `2019-Present`
 
-Promoted to Director, Software Development in a newly formed  center of excellement for Product R&D, Enterprise IT Software, and DevOps.  Drove adoption of OKRs with individual contributors and managers.  Strong focus on building a great engineering culture and continuous coaching.
+Promoted to Director, Software Development in a newly formed  center of excellence for Product R&D, Enterprise IT Software, and DevOps.  Drove adoption of OKRs with individual contributors and managers.  Strong focus on building a great engineering culture and continuous coaching.
 
 * Commercialized R&D capabilities into new commerical product introductions with highly influential customers, resulting in a rollout of IoT equipment and $40+ million in new revenue.
-* Expanded Duke's controls electronic and software strategy to include larger percentage of product offerings, driving down the cost of electronics, and increasing standardarization of parts for service business.
+* Expanded controls electronic and software strategy to include larger percentage of product offerings, driving down the cost of electronics, and increasing standardarization of parts for service business.
 * Introduced Mobile Application development with cross platform development (Xamarin) and designed and built IoT integration with Bluetooth 5.0 Mesh profiles.
 * Expanded DevOps organization to include Manufacturing IT-Ops, and Customer Service.
 * Played a lead role navigating and eventually successfully mitigating a large scale cyber attack (Conti) over the entire enterprise (large scale ransomware attack). 
@@ -41,6 +41,8 @@ Promoted to Director, Software Development in a newly formed  center of excellem
 * Helped to design/build a culture of coaching for technical leads / managers for division.
 * Elevated Software as a key element of customer influence, and built and maintained key customer relationships to drive new sales / support customers.
 * Built and evangelized technology roadmaps across the enterprise, culminating in adoption of Salesforce (CRM/Service/CPQ), adoption of middleware (Jitterbit), and drove migration/elimination of custom applications in favor of platform solutions
+
+\pagebreak
 
 ####  Manager, Software R&D `2017-2019`
 
