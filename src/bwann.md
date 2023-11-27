@@ -24,64 +24,82 @@ Ben Wann\
 ## Work Experience
 
 ### St.Louis, US
-### Philippines
 
-####  Director of Software Development at [Duke Manufacturing](https://dukemfg.com) `2019-Present`
+#### [Duke Manufacturing](https://dukemfg.com)  
+####  Director, Software Development  `2019-Present`
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor volutpat est, eu tristique enim posuere eget. Maecenas rutrum vehicula nunc, ut tempor mauris bibendum vitae. Nulla tristique sed arcu sit amet auctor. Suspendisse bibendum ante porta metus dignissim imperdiet. 
+Promoted to Director, Software Development in a newly formed  center of excellement for Product R&D, Enterprise IT Software, and DevOps.  Drove adoption of OKRs with individual contributors and managers.  Strong focus on building a great engineering culture and continuous coaching.
 
-####  System Architect at [Duke Manufacturing](https://dukemfg.com) `2014-2019`
+* Commercialized R&D capabilities into new commerical product introductions with highly influential customers, resulting in a rollout of IoT equipment and $40+ million in new revenue.
+* Expanded Duke's controls electronic and software strategy to include larger percentage of product offerings, driving down the cost of electronics, and increasing standardarization of parts for service business.
+* Introduced Mobile Application development with cross platform development (Xamarin) and designed and built IoT integration with Bluetooth 5.0 Mesh profiles.
+* Expanded DevOps organization to include Manufacturing IT-Ops, and Customer Service.
+* Played a lead role navigating and eventually successfully mitigating a large scale cyber attack (Conti) over the entire enterprise (large scale ransomware attack). 
+* Developed Innovation strategy for new technology introduction including Vision AI, Big Data Mining for equipment performance
+* Lead hiring initiatives to expand our R&D and IT software groups both in US and overseas.
+* Drove adoption of cybersecurity standards to meet new regulatory demands for IoT Devices (GDPR / FCC / UL / ISA/IEC 62443 / EU Cybersecurity Act).
+* Helped to design/build a culture of coaching for technical leads / managers for division.
+* Elevated Software as a key element of customer influence, and built and maintained key customer relationships to drive new sales / support customers.
+* Built and evangelized technology roadmaps across the enterprise, culminating in adoption of Salesforce (CRM/Service/CPQ), adoption of middleware (Jitterbit), and drove migration/elimination of custom applications in favor of platform solutions
 
-Aenean eget tincidunt metus, id dignissim neque. Nunc ornare massa ut dignissim posuere. Sed non congue neque. Cras facilisis in ligula id pretium. In convallis fringilla ipsum vel commodo. Pellentesque mi enim, facilisis eu ornare in, mollis rutrum ipsum.
+####  Manager, Software R&D `2017-2019`
 
-####  Web Engineer at [Duke Manufacturing](https://dukemfg.com) `2014-2014`
+Promoted to Manager and continued to drive new product development of teams located in US and Philippines.  Focus on innovation with team members, capturing new product development opportunities, and knitting together a global team of software engineers.
 
-Praesent sollicitudin, massa ut tempus mattis, velit tortor efficitur augue, ac placerat est arcu id nisi. Nulla vestibulum faucibus enim, eu malesuada orci vestibulum eu. Sed egestas odio risus, id semper arcu rhoncus quis. Sed non orci sodales, tempus augue vitae, porttitor sem. Proin fermentum dignissim dui, in egestas dolor ultrices nec.
+* Lead teams to convert/standardize to FreeRTOS real-time operating system for embedded microcontrollers (STM32/dsPic33/PIC24/PIC32/ESP32/IMX.RT), and Yocto Linux for embedded linux microprocessors (NXP IMX6 family).
+* Hired / trained / and ran a newly formed DevOps organization for all software components CI/CD (firmware / edge / cloud / IoT).
+* Selected and implemented QA Test Management software for release management, with hardware in the loop testing for embedded solutions.
+* Selected and implemented automated test frameworks using behavior driven development (BDD) for embedded and cloud software solutions.
+* Innovated on several novel concepts for Smart Kitchen equipment + cloud integrations.  
+* Participated in new product innovation process with on-site ethnography, and voice of customer visits.
+* Hired / Coached / mentored software engineers (firmware / desktop / cloud) in US and Philippines
+
+####  System Architect `2014-2017`
+
+Chief designer and technical lead for Duke’s IoT platform for use in commercial kitchens. Designs elements: erlang/c/c++ embedded firmware, mutliple Point of Sale protocol integrations, custom TCP real time protocol, IoT protocol (mqtt pub/sub), and cloud SaaS platform (php/python).
+
+* Lead global technology strategy for development, pilot, and commercial rollout of connected kitchen system for global scale fast food restaurants.
+* Prepared, and conducted live customer facing technology demonstrations to high level executive teams.  
+* Drove customer integrations with sales team at global fast food brands conventions.  
+* Integrated external software organizations with internal product R&D teams, as well as newly acquired company in the Philippines.
+* Drove adoption of Agile Scrum across teams and enterprise.
 
 ### San Francisco, US
 
-####  Distributed Software Engineer at [2600hz](https://www.2600hz.com/) `2013-2014`
+####  [2600hz](https://www.2600hz.com/)  
+####  Distributed Software Engineer  `2013-2014`
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis ante ac purus ultrices, posuere pellentesque ipsum maximus. Integer id augue nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam at efficitur leo. 
+Jumped at opportunity to join a company and work directly on an open source software product called Kazoo.
+
+* Placed in customer facing roles (integration / 24/7 engineering support) in less than 3 months
+* Made presentation evangelizing use of Erlang programming language at Developer convention.
+* Developed fun integration examples to show use cases for new features (Date Buoy - Texts when a date is not working) and Meme.ittu.me (Fax / SMS a meme at lightning speed).
+* Shift day to day development from predominantly LAMP with relation databases (MySQL, SQL Server, Postgres) to document based database (BigCouch), Erlang, and RabbitMQ messaging queues.
+* Performed key load testing integrations with customer engineering teams, and product development teams.
 
 ### St. Louis, US
+#### [jWeb New Media](https://jwebmedia.com/)  
+####  Senior Web Engineer  `2006-2013`
 
-####  Senior Web Engineer at [jWeb New Media](https://jwebmedia.com/) `2006-2013`
+Consultative software development for wide range of businesses ranging from small-midsize ecommerce applications, to large enterprise application development.
 
-Cras eget tempus est. Sed consequat leo massa, sed cursus lorem lacinia sed. Cras tincidunt, risus in euismod aliquam, augue nulla aliquam nunc, sed dignissim lorem tellus in magna. Nunc eget tortor orci. Pellentesque ut est diam. Aenean mi dolor, blandit eu elementum vel, convallis ornare magna.
+* Built test scheduling software used for Pearson Publishing and University of Central Florida, East Carolina University, and Florida International University.
+* Customized, and launched several large Magento E-Commerce platform solutions including: a fitness equipment manufacturer, a dietary food manufacturer, a large mens apparel retailer, and a high end fabric retailer
+* Created workflow software for Parts Distributors and the U.S Army, as Agricultural Seed Sales firms working with large agricultural manufacturers and farmers.
+* Designed, and executed migration of hosting platform from small custom servers to scalable cloud architecture using XenServer, NetApp SANs, Brocade Fibre Channel networking.
 
 ## Education
 
-#### B.S Computer Science, Principia College `2000-2004`
+#### [Principia College](https://www.principiacollege.edu/) 
+#### B.S Computer Science `2000-2004`
 
-Etiam imperdiet elit non pretium tempus. Mauris sed turpis tempus, porttitor sapien at, iaculis arcu. Praesent ut nibh augue. Nunc vel felis id massa rutrum lacinia. Donec fringilla elit eget mattis ultricies. Vestibulum gravida diam in tristique ullamcorper.
+* 2004 Co-recipient of Computer Science award
 
-
-## Awards
-
-President, _Royal Society_, London, UK
-
-Associate, _French Academy of Science_, Paris, France
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-**1669** Newton Sir I, _De analysi per æquationes numero terminorum infinitas_
-
-**1669** _Lectiones opticæ_
-
-### Patents
-
-**2012** Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-## Occupation
-
-#### Royal Mint, London `1600`
-
-- Warden
-- Minted coins
-
-#### Lucasian professor of Mathematics, Cambridge University `1600`
+## Patents
+[US20170065117A1: Food processing management system](https://patents.google.com/patent/US20170065117A1)  
+[US20200349795A1: Food preparation apparatus having a virtual data bus](https://patents.google.com/patent/US20200349795A1)  
+[US20210369049A1: Appliance component fault detection](https://patents.google.com/patent/US20210369049A1)  
+[US20220095836A1: Food holding apparatus](https://patents.google.com/patent/US20220095836A1)  
+[US11729015B2: Network system having a network appliance](https://patents.google.com/patent/US11729015B2)  
+[US20230263339A1: Networked food preparation apparatus](https://patents.google.com/patent/US20230263339A1)  
+*Note: Above patents include awarded, pending, and abandoned states*  
