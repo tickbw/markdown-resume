@@ -12,20 +12,27 @@ style: default
 
 <hr />
 
-## Contact information
+## Contact
 
+<table>
+<tr>
+<td>
 Ben Wann\
+St.Louis, MO\
 <https://benwann.com>\
 <https://github.com/tickbw>\
 <ben.wann@gmail.com>\
-[+13144225186](tel:+13144225186)
+[+13144225186](tel:+13144225186)\
+</td>
+<td>
+![](./images/bwann.png)
+</td>
+</tr>
+</table>
 
+## Professional
 
-## Work Experience
-
-### St.Louis, US
-
-#### [Duke Manufacturing](https://dukemfg.com)  
+#### [Duke Manufacturing St.Louis, US (Hybrid Remote)](https://dukemfg.com)  
 ####  Director, Software Development  `2019-Present`
 
 Promoted to Director, Software Development in a newly formed  center of excellence for Product R&D, Enterprise IT Software, and DevOps.  Drove adoption of OKRs with individual contributors and managers.  Strong focus on building a great engineering culture and continuous coaching.
@@ -36,13 +43,13 @@ Promoted to Director, Software Development in a newly formed  center of excellen
 * Expanded DevOps organization to include Manufacturing IT-Ops, and Customer Service.
 * Played a lead role navigating and eventually successfully mitigating a large scale cyber attack (Conti) over the entire enterprise (large scale ransomware attack). 
 * Developed Innovation strategy for new technology introduction including Vision AI, Big Data Mining for equipment performance
-* Lead hiring initiatives to expand our R&D and IT software groups both in US and overseas.
+* Lead global hiring initiatives to expand our R&D and IT software groups.
 * Drove adoption of cybersecurity standards to meet new regulatory demands for IoT Devices (GDPR / FCC / UL / ISA/IEC 62443 / EU Cybersecurity Act).
 * Helped to design/build a culture of coaching for technical leads / managers for division.
 * Elevated Software as a key element of customer influence, and built and maintained key customer relationships to drive new sales / support customers.
 * Built and evangelized technology roadmaps across the enterprise, culminating in adoption of Salesforce (CRM/Service/CPQ), adoption of middleware (Jitterbit), and drove migration/elimination of custom applications in favor of platform solutions
 
-\pagebreak
+<div style="page-break-after: always;"></div>
 
 ####  Manager, Software R&D `2017-2019`
 
@@ -66,9 +73,7 @@ Chief designer and technical lead for Duke’s IoT platform for use in commercia
 * Integrated external software organizations with internal product R&D teams, as well as newly acquired company in the Philippines.
 * Drove adoption of Agile Scrum across teams and enterprise.
 
-### San Francisco, US
-
-####  [2600hz](https://www.2600hz.com/)  
+####  [2600hz, San Francisco, US (Fully Remote)](https://www.2600hz.com/)  
 ####  Distributed Software Engineer  `2013-2014`
 
 Jumped at opportunity to join a company and work directly on an open source software product called Kazoo.
@@ -79,8 +84,7 @@ Jumped at opportunity to join a company and work directly on an open source soft
 * Shift day to day development from predominantly LAMP with relation databases (MySQL, SQL Server, Postgres) to document based database (BigCouch), Erlang, and RabbitMQ messaging queues.
 * Performed key load testing integrations with customer engineering teams, and product development teams.
 
-### St. Louis, US
-#### [jWeb New Media](https://jwebmedia.com/)  
+#### [jWeb New Media St. Louis, US (On-Site)](https://jwebmedia.com/)  
 ####  Senior Web Engineer  `2006-2013`
 
 Consultative software development for wide range of businesses ranging from small-midsize ecommerce applications, to large enterprise application development.
@@ -105,3 +109,12 @@ Consultative software development for wide range of businesses ranging from smal
 [US11729015B2: Network system having a network appliance](https://patents.google.com/patent/US11729015B2)  
 [US20230263339A1: Networked food preparation apparatus](https://patents.google.com/patent/US20230263339A1)  
 *Note: Above patents include awarded, pending, and abandoned states*  
+
+## About Me
+
+* Dad.  4 kids middle school and under.  Defacto Math homework tutor.
+* Coach.  I like to keep coaching and mentoring outside of work.
+* Maker.  I have tweaked my Ender-3 V1 about as much as I can - remote camera, auto bed leveling, etc.
+* Student.  Security is deeply intertwined in everything we do (at least it should be).  Graduate degree at Georgia Tech OMSCS started, and then paused.  Planning to restart soon.
+* Tinkerer.  BeagleBone Black, Raspberry PI*, ESP32.  I have spent the last 10 years making IoT things at work, I like to make them at home too.
+

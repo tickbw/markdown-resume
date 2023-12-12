@@ -147,8 +147,6 @@ li:before {
 }
 
 li {
-  padding-left: 1.25em;
-  text-indent: -0.75em;
   margin-bottom: 10px;
 }
 
@@ -184,8 +182,7 @@ h2 {
   margin-top: 12pt;
   position: relative;
   text-align: left;
-  width: 20%;
-
+  width: 15%;
   height: 0px;
   top: 0em;
 }
@@ -206,12 +203,12 @@ h3 {
   margin-top: 10pt;
 }
 
-p,h4 {
+p,h4,ul,table {
   position: relative;
-  left: 23%;
+  left: 15%;
   margin-bottom: 7pt;
   margin-right: 0;
-  width: 77%;
+  width: 84%;
   text-align: justify;
   text-justify: inter-word;
   clear: both;
@@ -301,4 +298,8 @@ strong {
 #ghbutton {
   display: none;
   visibility: hidden;
+}
+
+table tr td {
+  vertical-align: top;
 }
